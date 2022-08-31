@@ -10,7 +10,7 @@ namespace AppRpgEtec
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new  NavigationPage(new Views.Usuarios.LoginView());
         }
 
         protected override void OnStart()

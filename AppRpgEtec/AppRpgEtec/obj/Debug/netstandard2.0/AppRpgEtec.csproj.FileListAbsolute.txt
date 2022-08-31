@@ -13,3 +13,8 @@ D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\refint\AppRpgEtec.dll
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CopyComplete

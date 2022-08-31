@@ -633,3 +633,4 @@ D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\myimg.jpg
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\my.png
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll

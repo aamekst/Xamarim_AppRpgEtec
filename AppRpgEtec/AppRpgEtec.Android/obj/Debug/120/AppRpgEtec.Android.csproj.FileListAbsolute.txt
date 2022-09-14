@@ -634,3 +634,10 @@ D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\myimg.jpg
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\my.png
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\etec_cps.gif
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\exit.png
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\home.png
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\info.png
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\menudisputas.png
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\menupersonagens.png
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\menuusuarios.png

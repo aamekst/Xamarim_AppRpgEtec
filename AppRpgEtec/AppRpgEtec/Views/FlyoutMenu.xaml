@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewRaiz="clr-namespace:AppRpgEtec"
+             xmlns:viewUsuarios="clr-namespace:AppRpgEtec.Views.Usuarios"
+             xmlns:viewPersonagens="clr-namespace:AppRpgEtec.Views.Personagens"
+             xmlns:viewDisputas="clr-namespace:AppRpgEtec.Views.Disputas"
+       
+       
+             x:Class="AppRpgEtec.Views.FlyoutMenu">
+    <Shell.FlyoutHeaderTemplate>
+        <DataTemplate>
+            <Grid BackgroundColor="Transparent">
+                <Image Aspect="AspectFill" HeightRequest="250" Source="etec_cps.gif" />
+            </Grid>
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+
+
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+
+
+        <ShellContent x:Name="PaginaInicial" Title="Página Inicial" Icon="Home.png" ContentTemplate="{DataTemplate viewRaiz:MainPage}" />
+
+        <ShellContent Title="Usuários" Icon="MenuUsuarios.png" ContentTemplate="{DataTemplate viewUsuarios:ListagemView}" />
+
+        <ShellContent Title="Personagens" Icon="MenuPersonagens.png" ContentTemplate="{DataTemplate viewPersonagens:ListagemView}"/>
+
+        <ShellContent Title="Disputas" Icon="MenuDisputas.png" ContentTemplate="{DataTemplate viewDisputas:ListagemView}" />
+
+        <Tab Title="Info" Route="Info" Icon="Info.png">
+            <ShellContent Title="Sobre"  Route="sobre" ContentTemplate="{DataTemplate viewRaiz:AboutView}"/>
+            <ShellContent Title="Descrição" Route="desc"  ContentTemplate="{DataTemplate viewRaiz:Description}"/>
+
+
+        </Tab>
+    </FlyoutItem>
+
+
+
+    <ShellContent Title="Sair" Icon="Exit.png" ContentTemplate="{DataTemplate viewUsuarios:LoginView}"/>
+
+
+
+    <Shell.FlyoutFooter>
+        <Label x:Name="lblLogin" TextColor="Black" FontAttributes="Bold" HorizontalOptions="Center"/>
+    </Shell.FlyoutFooter>
+</Shell>

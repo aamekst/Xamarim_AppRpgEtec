@@ -1,5 +1,6 @@
 ﻿using AppRpgEtec.Models;
 using AppRpgEtec.Services.Usuarios;
+using AppRpgEtec.Views;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -47,7 +48,7 @@ namespace AppRpgEtec.ViewModels.Usuarios
                         .Current.MainPage.DisplayAlert("Informação", mensagem, "Ok");
 
 
-                    Application.Current.MainPage = new AppRpgEtec.MainPage();
+                    Application.Current.MainPage = new FlyoutMenu();
 
 
 

@@ -24,3 +24,4 @@ D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\ListagemView.xaml.g.cs
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\CadastroPersonagemView.xaml.g.cs

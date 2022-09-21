@@ -21,5 +21,11 @@ namespace AppRpgEtec.Views.Personagens
             viewModel = new ListagemPersonagemViewModel();  
             BindingContext = viewModel;
         }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            _ = viewModel.ObterPersonagens();
+        }
     }
 }

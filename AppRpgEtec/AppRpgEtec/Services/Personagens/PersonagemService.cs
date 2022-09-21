@@ -34,13 +34,28 @@ namespace AppRpgEtec.Services.Personagens
             _request.GetAsync<ObservableCollection<Models.Personagem>>(ApiUrlBase + urlComplementar, _token);
             return listaPersonagens;
         }
-        public async Task<ObservableCollection<Personagem>> GetPersonagemAsync(int personagemId)
+
+
+        public async Task<Personagem> GetPersonagemAsync(int personagemId)
+        {
+            string urlComplementar = string.Format("/{0}", personagemId);
+
+            var personagem = await
+                _request.GetAsync<Models.Personagem>(ApiUrlBase + urlComplementar, _token);
+
+            return personagem;
+        }
+
+
+        /*public async Task<ObservableCollection<Personagem>> GetPersonagemAsync(int personagemId)
         {
             ObservableCollection<Models.Personagem> listaPersonagens = await
             _request.GetAsync<ObservableCollection<Models.Personagem>>(ApiUrlBase, _token);
             var personagemFiltrado = listaPersonagens.Where(p => p.Id == personagemId);
             return new ObservableCollection<Personagem>(personagemFiltrado);
-        }
+        }*/
+
+
         public async Task<Personagem> PutPersonagemAsync(Personagem p)
         {
             var result = await _request.PutAsync(ApiUrlBase, p, _token);

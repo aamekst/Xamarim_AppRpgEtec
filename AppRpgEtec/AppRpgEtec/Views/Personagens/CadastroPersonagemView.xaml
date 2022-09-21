@@ -5,12 +5,22 @@
     <ContentPage.Content>
         <ScrollView>
             <StackLayout Spacing="3" Padding="15">
+                <Label Text="Id" FontSize="Medium" />
+                <Entry Text="{Binding Id}" IsEnabled="False" FontSize="Medium" />
+
+
+
+
                 <Label Text="Nome" FontSize="Medium" />
                 <Entry Text="{Binding Nome}" FontSize="Medium" />
                 <Label Text="Classe" FontSize="Medium" />
-                <Picker Title="---Selecione---" ItemsSource="{Binding ListaTiposClasse}"
-ItemDisplayBinding="{Binding Descricao}" SelectedItem="{Binding TipoClasseSelecionado}" />
+                
+                <Picker Title="---Selecione---" ItemsSource="{Binding ListaTiposClasse}" ItemDisplayBinding="{Binding Descricao}" SelectedItem="{Binding TipoClasseSelecionado}" />
+
+               
+
                 <Label Text="Ponto de Vida" FontSize="Medium" />
+                
                 <Entry Text="{Binding PontosVida}" FontSize="Medium" Keyboard="Numeric" />
                 <Label Text="Força" FontSize="Medium" />
                 <Entry Text="{Binding Forca}" FontSize="Medium" Keyboard="Numeric" />
@@ -26,6 +36,8 @@ ItemDisplayBinding="{Binding Descricao}" SelectedItem="{Binding TipoClasseSeleci
                 <Entry Text="{Binding Derrotas}" FontSize="Medium" Keyboard="Numeric" />
                 <StackLayout Orientation="Horizontal">
                     <Button Text="Salvar" Command="{Binding SalvarCommand}"
+HorizontalOptions="FillAndExpand"></Button>
+                    <Button Text="Cancel" Command="{Binding CancelarCommand}"
 HorizontalOptions="FillAndExpand"></Button>
                 </StackLayout>
             </StackLayout>

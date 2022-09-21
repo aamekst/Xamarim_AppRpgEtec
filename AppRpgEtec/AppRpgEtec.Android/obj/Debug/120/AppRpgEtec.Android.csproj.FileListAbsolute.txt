@@ -641,3 +641,5 @@ D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\menudisputas.png
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\menupersonagens.png
 D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\menuusuarios.png
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\add.png
+D:\2022_2_DS_ALANA\Mobile\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\delete.png

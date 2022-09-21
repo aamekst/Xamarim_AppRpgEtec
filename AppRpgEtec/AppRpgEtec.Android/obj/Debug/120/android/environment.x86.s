@@ -1243,7 +1243,7 @@ application_config:
 
 	.type	.L.autostr.6, @object
 .L.autostr.6:
-	.asciz	"ce88a346-c497-42f0-8950-c53ae6d844e0"
+	.asciz	"3b18d217-c16e-437d-aa9b-d410524cc4a1"
 	.size	.L.autostr.6, 37
 
 	.type	.L.autostr.7, @object

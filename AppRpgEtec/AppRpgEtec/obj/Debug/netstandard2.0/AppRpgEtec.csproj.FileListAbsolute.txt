@@ -1,0 +1,184 @@
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.deps.json
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfoInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfo.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.deps.json
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Disputas\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfoInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfo.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.deps.json
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.AssemblyReference.cache
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Disputas\ListagemView.xaml.g.cs
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\ListagemView.xaml.g.cs
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfoInputs.cache
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfo.cs
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CoreCompileInputs.cache
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\DescriptionPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\DescriptionPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.deps.json
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\DescriptionPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Disputas\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfoInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfo.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\CadastroPersonagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.deps.json
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\DescriptionPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Disputas\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\CadastroPersonagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfoInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfo.cs
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.deps.json
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.AssemblyReference.cache
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\DescriptionPage.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Disputas\ListagemView.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\CadastroPersonagemView.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\ListagemView.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfoInputs.cache
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfo.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CoreCompileInputs.cache
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\refint\AppRpgEtec.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Armas\CadastroArmaView.xaml.g.cs
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Armas\ListagemView.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.deps.json
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.AssemblyReference.cache
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\DescriptionPage.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Armas\CadastroArmaView.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Armas\ListagemView.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Disputas\ListagemView.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\CadastroPersonagemView.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\ListagemView.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfoInputs.cache
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfo.cs
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CoreCompileInputs.cache
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\refint\AppRpgEtec.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.deps.json
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.dll
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\bin\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.AssemblyReference.cache
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\DescriptionPage.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Armas\CadastroArmaView.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Armas\ListagemView.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Disputas\ListagemView.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\FlyoutMenu.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\CadastroPersonagemView.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Personagens\ListagemView.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\ListagemView.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LocalizacaoView.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\Views\Usuarios\LoginView.xaml.g.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfoInputs.cache
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.AssemblyInfo.cs
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.csproj.CoreCompileInputs.cache
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\XamlC.stamp
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.dll
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\refint\AppRpgEtec.dll
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\AppRpgEtec.pdb
+D:\2022_2_DS_ALANA\Aula2510\AppRpgEtec\AppRpgEtec\AppRpgEtec\obj\Debug\netstandard2.0\ref\AppRpgEtec.dll

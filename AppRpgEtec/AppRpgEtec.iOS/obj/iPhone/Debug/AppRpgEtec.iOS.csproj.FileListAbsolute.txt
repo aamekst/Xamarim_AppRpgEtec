@@ -1,0 +1,453 @@
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CopyComplete
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CopyComplete
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Concluidos\A05Layout\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.dll
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.pdb
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.AssemblyReference.cache
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CopyComplete
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Personal\ETEC\Projetos\2022-1-PAMII\Aula05FlyOut\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CopyComplete
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Concluidos\A06Listagem\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.dll
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.pdb
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.AssemblyReference.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CopyComplete
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\ETEC\PAM2022-1\Concluidos\A07Cadastro\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.AssemblyReference.cache
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CopyComplete
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+D:\Work\Etec\2022_2-PAMII\TesteMapas\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.iOS.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Xamarin.Forms.GoogleMaps.iOS.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Google.Maps.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.dll
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.pdb
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\optimized\
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.AssemblyReference.cache
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CoreCompileInputs.cache
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.csproj.CopyComplete
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.exe
+D:\Materiais Locais\3DS_PAMII\Aula12_1810\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\AppRpgEtec.iOS.pdb

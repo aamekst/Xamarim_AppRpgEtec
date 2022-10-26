@@ -9,6 +9,7 @@ using System.Text;
 using Xamarin.Forms;
 using Xamarin.Forms.GoogleMaps;
 
+
 namespace AppRpgEtec.ViewModels.Usuarios
 {
     public class LocalizacaoViewModel 
@@ -111,10 +112,10 @@ namespace AppRpgEtec.ViewModels.Usuarios
 
                 foreach (Usuario u in listaUsuarios)
                 {
-                    if (!string.IsNullOrEmpty(u.Latitude) && !string.IsNullOrEmpty(u.Longitude))
+                    if (u.Latitude != null && u.Longitude !=null)
                     {
-                        double latitude = double.Parse(u.Latitude);
-                        double longitude = double.Parse(u.Longitude);
+                        double latitude = (double)u.Latitude;
+                        double longitude = (double)u.Longitude;
 
                         Pin pinAtual = new Pin()
                         {

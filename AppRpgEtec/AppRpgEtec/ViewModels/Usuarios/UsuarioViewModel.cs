@@ -51,8 +51,8 @@ namespace AppRpgEtec.ViewModels.Usuarios
                     locator.DesiredAccuracy = 50;
                     var position = await locator.GetPositionAsync(TimeSpan.FromSeconds(10));
 
-                    uLoc.Latitude = String.Format("{0:0.0000000}", position.Latitude);
-                    uLoc.Longitude = String.Format("{0:0.0000000}", position.Longitude);
+                    uLoc.Latitude =  position.Latitude;
+                    uLoc.Longitude = position.Longitude;
 
 
 
